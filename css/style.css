@@ -18,3 +18,7 @@
     border: 0px !important;
     border-radius: 10px !important;
 }
+.navbar-brand img{
+    width: 100px;
+    height: 90px;
+}
